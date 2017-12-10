@@ -1,5 +1,7 @@
 package KKH.Opencv;
 
+// Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+
 import javax.swing.*;
 import java.io.*;
 import javax.imageio.*;
