@@ -25,6 +25,9 @@ Some example utility functionalities (in the form of static methods and classes)
 - Pretty print a given Mat matrix object to console.
 
 
+Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+
+
 Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
 
 https://kyaw.xyz
