@@ -1,6 +1,6 @@
-package KKH.Opencv;
-
 // Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+
+package KKH.Opencv;
 
 import KKH.StdLib.Matk;
 import KKH.StdLib.Matkc;
