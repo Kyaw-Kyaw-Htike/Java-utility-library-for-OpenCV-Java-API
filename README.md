@@ -24,6 +24,7 @@ Some example utility functionalities (in the form of static methods and classes)
 - Convert Mat matrix object of integer type to integer 3D array.
 - Pretty print a given Mat matrix object to console.
 
+https://kyaw.xyz/2017/12/10/java-utility-library-for-opencv-java-api/
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
